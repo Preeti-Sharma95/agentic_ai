@@ -1,9 +1,8 @@
-streamlit>=1.27.2
-pandas>=2.0.0
-fpdf>=1.7.2
-plotly>=5.0.0
-
-# Optional AI features (comment out if not needed)
-langchain>=0.1.6
-langchain-groq>=0.0.4
-openai>=1.0.0
+streamlit>=1.30
+pandas>=2.2
+requests>=2.31
+openpyxl>=3.1
+fpdf>=1.7
+plotly>=5.19
+langchain>=0.1.14
+langchain-groq>=0.1.4
